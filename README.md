@@ -8,6 +8,6 @@ This repository contains my foundational practice in:
 This is part of my learning journey toward advanced computing and secure software development.
 
 ## Structure
-📁 python/ - Python practice
-📁 c/ - C practice
-📁 java/ - Java practice
+- 📁 python/ - Python practice
+- 📁 c/ - C practice
+- 📁 java/ - Java practice
