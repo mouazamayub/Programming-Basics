@@ -1,13 +1,13 @@
 # Programming-Basics
 
-This repository contains my practise of programming fundamentals.
-
-Languages:
+This repository contains my foundational practice in:
 - Python
 - C
 - Java
 
-Goal:
-My journey of building strong foundations for advanced computing and security.
+This is part of my learning journey toward advanced computing and secure software development.
 
-Started on: Day 1
+## Structure
+📁 python/ - Python practice
+📁 c/ - C practice
+📁 java/ - Java practice
