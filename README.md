@@ -8,6 +8,7 @@ This repository contains my foundational practice in:
 ## Python Progress
 - Day 1: Hello World, Basic print and input
 - Day 2: Variables and User input
+- Day 3: Practiced if-else and basic decision making
 
 ## C Progress
 - Day 1: (To be added)
