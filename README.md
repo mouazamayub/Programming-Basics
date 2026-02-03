@@ -9,6 +9,7 @@ This repository contains my foundational practice in:
 - Day 1: Hello World, Basic print and input
 - Day 2: Variables and User input
 - Day 3: Practiced if-else and basic decision making
+- Day 4: Comparison operators and elif for multiple conditions
 
 ## C Progress
 - Day 1: (To be added)
