@@ -10,6 +10,8 @@ This repository contains my foundational practice in:
 - Day 2: Variables and User input
 - Day 3: Practiced if-else and basic decision making
 - Day 4: Comparison operators and elif for multiple conditions
+- Day 5: Logical Operators
+- Day 5: Type Conversion
 
 ## C Progress
 - Day 1: (To be added)
