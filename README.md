@@ -12,7 +12,7 @@ This repository contains my foundational practice in:
 - Day 4: Comparison operators and elif for multiple conditions
 - Day 5: Logical Operators
 - Day 5: Type Conversion
-- Day 6: While loop and repetition using conditions
+- Day 6: While loop and repetition using conditions, Break, Continue
 
 ## C Progress
 - Day 1: (To be added)
