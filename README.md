@@ -13,6 +13,7 @@ This repository contains my foundational practice in:
 - Day 5: Logical Operators
 - Day 5: Type Conversion
 - Day 6: While loop and repetition using conditions, Break, Continue
+- Day 7: For loop and list iteration
 
 ## C Progress
 - Day 1: (To be added)
