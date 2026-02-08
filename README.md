@@ -15,6 +15,7 @@ This repository contains my foundational practice in:
 - Day 6: While loop and repetition using conditions, Break, Continue
 - Day 7: For loop and list iteration
 - Day 8: List Indexing, Slicing, and Modifying list data
+- Day 9: Common list methods and list processing using loops
 
 ## C Progress
 - Day 1: (To be added)
