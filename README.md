@@ -17,6 +17,7 @@ This repository contains my foundational practice in:
 - Day 8: List Indexing, Slicing, and Modifying list data
 - Day 9: Common list methods and list processing using loops
 - Day 10: Learned Nested lopps and processing lists inside lists
+- Day 11: Learned Functions and Return Values
 
 ## C Progress
 - Day 1: (To be added)
