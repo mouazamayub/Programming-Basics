@@ -19,6 +19,7 @@ This repository contains my foundational practice in:
 - Day 10: Learned Nested loops and processing lists inside lists.
 - Day 11: Learned Functions and Return Values.
 - Day 12: Added conditional logic inside functions and multiple return values.
+- Day 13: Learned dictionary and using list of dictionaries.
 
 ## C Progress
 - Day 1: (To be added)
