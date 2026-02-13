@@ -1,6 +1,6 @@
 student = {
-    "name":"Ali",
-    "marks":[80, 75, 90],
+    "name":str(input("enter")),
+    "marks":int(input("enter marks")),
 }
 total = 0
 for mark in student["marks"]:

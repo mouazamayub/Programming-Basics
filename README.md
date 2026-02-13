@@ -20,6 +20,8 @@ This repository contains my foundational practice in:
 - Day 11: Learned Functions and Return Values.
 - Day 12: Added conditional logic inside functions and multiple return values.
 - Day 13: Learned dictionary and using list of dictionaries.
+- Day 14: Learned Error Handling and Built Student result validator with error handling.
+
 
 ## C Progress
 - Day 1: (To be added)
