@@ -21,6 +21,8 @@ This repository contains my foundational practice in:
 - Day 12: Added conditional logic inside functions and multiple return values.
 - Day 13: Learned dictionary and using list of dictionaries.
 - Day 14: Learned Error Handling and Built Student result validator with error handling.
+- Day 15: Implemented multi-student result management using list of dictionaries. Strengthened understanding of nested indexing, KeyError, and data structure tracing.
+
 
 
 ## C Progress
