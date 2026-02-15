@@ -22,8 +22,10 @@ This repository contains my foundational practice in:
 - Day 13: Learned dictionary and using list of dictionaries.
 - Day 14: Learned Error Handling and Built Student result validator with error handling.
 - Day 15: Implemented multi-student result management using list of dictionaries. Strengthened understanding of nested indexing, KeyError, and data structure tracing.
+- Day 16: Refactored result calculation into a resualbe function and practised tuple return & unpacking.
 
-
+## Mini Projects
+- Student Result System (Versioned Mini Project)
 
 ## C Progress
 - Day 1: (To be added)

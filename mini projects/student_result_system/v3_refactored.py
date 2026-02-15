@@ -19,6 +19,12 @@ def calculate_grade(percentage):
     else:
         return "Fail"
 
+def calculate_result(marks):
+    total = sum(marks)
+    percentage = total / len(marks)
+    return total, percentage
+
+
 students = []
 
 num_students = int(input("How Many Students? "))
@@ -38,8 +44,7 @@ for i in range (num_students):
 
     student["marks"] = marks
 
-    total = sum(marks)
-    percentage = total / len(marks)
+    total, percentage = calculate_result(marks)
     grade = calculate_grade(percentage)
 
     student["total"] = total
