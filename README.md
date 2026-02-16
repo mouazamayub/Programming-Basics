@@ -23,9 +23,17 @@ This repository contains my foundational practice in:
 - Day 14: Learned Error Handling and Built Student result validator with error handling.
 - Day 15: Implemented multi-student result management using list of dictionaries. Strengthened understanding of nested indexing, KeyError, and data structure tracing.
 - Day 16: Refactored result calculation into a resualbe function and practised tuple return & unpacking.
+- Day 17: Added roll no. as unique identifier and implemented search functionality using flag-based loop control.
+
 
 ## Mini Projects
-- Student Result System (Versioned Mini Project)
+
+### Student Result System
+A progressively improved Python mini-project demonstrating:
+- Input Validation
+- Multi-Student Support
+- Refactoring for Clean Structure
+- Search by Unique Roll Number
 
 ## C Progress
 - Day 1: (To be added)
