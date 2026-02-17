@@ -23,3 +23,6 @@ Seperated result calculation into a resuable function using tuple unpacking.
 
 ### v4 - Roll Number & Search
 Introduced Roll Number as a unique identifier and implemented search funtionality using Flag-based loop control.
+
+### v5 - Duplicate Roll Protection
+Added validation logic to prevent duplicate Roll Numbers before inserting students into the system.

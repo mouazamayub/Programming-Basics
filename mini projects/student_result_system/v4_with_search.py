@@ -33,7 +33,19 @@ for i in range (num_students):
 
 
     student = {}
-    student["Roll"] = input("Enter roll number: ")
+    while True:
+        roll = input("Enter Roll Number: ")
+        duplicate = False
+        for s in students:
+            if s["Roll"] == roll:
+                duplicate = True
+                break
+        if duplicate:
+            print("Roll Number already exists")
+        else:
+            student["Roll"] = roll
+            break
+    
     student["Name"] = input("Enter Student Name: ")
 
     marks = []

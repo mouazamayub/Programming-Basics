@@ -24,6 +24,7 @@ This repository contains my foundational practice in:
 - Day 15: Implemented multi-student result management using list of dictionaries. Strengthened understanding of nested indexing, KeyError, and data structure tracing.
 - Day 16: Refactored result calculation into a resualbe function and practised tuple return & unpacking.
 - Day 17: Added roll no. as unique identifier and implemented search functionality using flag-based loop control.
+- Day 18: Implemented duplicate roll number protection using pre-insertion validation and flag-based loop control.
 
 
 ## Mini Projects
@@ -34,6 +35,7 @@ A progressively improved Python mini-project demonstrating:
 - Multi-Student Support
 - Refactoring for Clean Structure
 - Search by Unique Roll Number
+- Duplicate Roll Protection
 
 ## C Progress
 - Day 1: (To be added)
