@@ -25,7 +25,7 @@ This repository contains my foundational practice in:
 - Day 16: Refactored result calculation into a resualbe function and practised tuple return & unpacking.
 - Day 17: Added roll no. as unique identifier and implemented search functionality using flag-based loop control.
 - Day 18: Implemented duplicate roll number protection using pre-insertion validation and flag-based loop control.
-
+- Day 19: Learned sets, uniqueness property, membership testing using 'in', and improved understanding of validation-before-insertion.
 
 ## Mini Projects
 
