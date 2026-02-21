@@ -27,7 +27,7 @@ This repository contains my foundational practice in:
 - Day 18: Implemented duplicate roll number protection using pre-insertion validation and flag-based loop control.
 - Day 19: Learned sets, uniqueness property, membership testing using 'in', and improved understanding of validation-before-insertion.
 - Day 20: Learned about mutability vs immutability, refrence behavior, shallow copy using '.copy()', and nested list copy issues.
-
+- Day 21: Learned about variable scope (local vs global), and understood UnboundLocalError behavior.
 
 ## Mini Projects
 
